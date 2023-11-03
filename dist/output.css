@@ -989,6 +989,10 @@ video {
   font-family: Signika, sans-serif;
 }
 
+.font-mono {
+  font-family: monospace;
+}
+
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
