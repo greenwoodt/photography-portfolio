@@ -1,4 +1,4 @@
-**Photography Portolio**
+## Photography Portolio
 
 Website link: www.tomtgreenwood.com
 
